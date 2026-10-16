@@ -12,14 +12,12 @@
   "mini.icons": { "branch": "main", "commit": "e56797f90192d81f1fda02e662fc3e8e3d775027" },
   "nvim-cmp": { "branch": "main", "commit": "2ffe79f1f021def8dd1fcd81deb16f1bb0d989f3" },
   "nvim-lspconfig": { "branch": "master", "commit": "ac9d2f7c4757db6320cab6697fe73e5e8adb2457" },
-  "nvim-notify": { "branch": "master", "commit": "8701bece920b38ea289b457f902e2ad184131a5d" },
   "nvim-treesitter": { "branch": "main", "commit": "9a168f6357ed21c3a636e1727bc7d382abc451b8" },
   "plenary.nvim": { "branch": "master", "commit": "74b06c6c75e4eeb3108ec01852001636d85a932b" },
-  "remote-ssh.nvim": { "branch": "master", "commit": "b0fc5c8452b83a81bdf9bf19db3afacb26e41720" },
+  "remote-sshfs.nvim": { "branch": "main", "commit": "7a12a1677bbe96ca98f0c713448ac1f518ba09b7" },
   "render-markdown.nvim": { "branch": "main", "commit": "facc647f5d8110e3f20e8f793ef792fe6a78d444" },
   "ripgrep": { "branch": "master", "commit": "3fce3b5bb0236da2df6d99672afb8a719642eca7" },
   "scrollEOF.nvim": { "branch": "master", "commit": "e462b9a07b8166c3e8011f1dcbc6bf68b67cd8d7" },
-  "telescope-remote-buffer": { "branch": "master", "commit": "341bd7abae5f46d08d2af99d24ed05247311207e" },
   "telescope.nvim": { "branch": "master", "commit": "a0bbec21143c7bc5f8bb02e0005fa0b982edc026" },
   "tokyodark.nvim": { "branch": "master", "commit": "659aff3c73dc2e0159314050a81671f0b2eaad01" }
 }
