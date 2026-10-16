@@ -9,7 +9,10 @@ table.insert(vimgrep_args, '--glob')
 table.insert(vimgrep_args, '!**/.git/*')
 require('telescope').setup({
     defaults = {
-        vimgrep_arguments = vimgrep_args
+        vimgrep_arguments = vimgrep_args,
+        preview = {
+            treesitter = false
+        }
     },
     pickers = {
         find_files = {

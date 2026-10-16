@@ -1,0 +1,1 @@
+{"rule":"WHITESPACE_RULE","sentence":"^\\Q= (TODO investigate how this data is used)\n13    = enabling may provide some information on how cost tracking is done = could be useful if this is proprietary/not documented\n14    = links with service 13\n15    = (TODO investigate what cell broadcast channels means?)\\E$"}
